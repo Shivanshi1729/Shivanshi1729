@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Shivanshi1729
+- 🌱 I’m currently learning Computer Science.
