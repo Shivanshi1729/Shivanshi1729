@@ -1,19 +1,22 @@
-# 👋 Hi, I’m Shivanshi
+# Hi
 
-## `main()`
+# Articles
 
-- 🌱 I’m currently learning Computer Science.
-- [1729](https://en.wikipedia.org/wiki/1729_(number))
+- How to improve your browser
+- How to improve your windows os
+- Learn about Linux resources
 
-## `programming()`
+# Repos
 
-- `C`, `C++`, `Python`
-
-## `software()`
-
-- [linux](https://github.com/Shivanshi1729/linux)
-- [windows](https://github.com/Shivanshi1729/fix_windows)
-
-## `contact()`
-
-- email - `physicist.artist@gmail.com`
+- syllabus
+- project template
+- 2
+  - C
+- 3
+  - C++
+- 4
+  - Java
+- 5
+  - Scala
+- 6
+  - Compiler Design
