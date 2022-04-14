@@ -1,19 +1,19 @@
 # Hey there 👋
----
 
-Hi!, I'm Shivanshi, a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi!, I'm Shivanshi 👩‍🎓, a passionate self-taught full stack web developer 🕸 and a freelance  software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces 💻. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast 🌟. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- [What is 1729?](https://en.wikipedia.org/wiki/1729_(number))
-- Programming Language and Tools
-  - C, C++, Java
-  - js, css, html
-  - python, django
-  - Git
-  - linux, bash scripting
-  - LaTeX, Markdown
-- Social:
+- [What is 1729?](https://en.wikipedia.org/wiki/1729_(number)) 💡
+- Programming Language and Tools 🧑‍💻
+  - `C`, `C++`, `make`, `lex`
+  - `Java`, `maven`
+  - `js`, `css`, `html`
+  - `python`, `django`
+  - `Git`
+  - `linux`, `bash` scripting
+  - `LaTeX`, `Markdown`
+- Social: 💬
   - LikedIn - [@shivanshi1729](https://www.linkedin.com/in/shivanshi1729/)
   - Gmail - [physicist.artist](mailto:physicist.artist@gmail.com)
 
